@@ -1,0 +1,7 @@
+^\w{3} [ :0-9]{11} [._[:alnum:]-]+ dma\[[a-zA-Z0-9.]+\]: SSL initialization successful$
+^\w{3} [ :0-9]{11} [._[:alnum:]-]+ dma\[[a-zA-Z0-9.]+\]: delivery successful$
+^\w{3} [ :0-9]{11} [._[:alnum:]-]+ dma\[[a-zA-Z0-9.]+\]: mail to=<[._@[:alnum:]-]+> queued as [._[:alnum:]-]+$
+^\w{3} [ :0-9]{11} [._[:alnum:]-]+ dma\[[a-zA-Z0-9.]+\]: new mail from user=[._[:alnum:]-]+ uid=[[:digit:]]+ envelope_from=<[._@[:alnum:]-]+>$
+^\w{3} [ :0-9]{11} [._[:alnum:]-]+ dma\[[a-zA-Z0-9.]+\]: trying delivery$
+^\w{3} [ :0-9]{11} [._[:alnum:]-]+ dma\[[a-zA-Z0-9.]+\]: trying remote delivery to [._[:alnum:]-]+ \[[[:digit:].]+\] pref [[:digit:]]+$
+^\w{3} [ :0-9]{11} [._[:alnum:]-]+ dma\[[a-zA-Z0-9.]+\]: using smarthost \([._[:alnum:]-]+:[[:digit:]]+\)$
